@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebaDeConsola/1.0.0": {
+        "dependencies": {
+          "PruebaDLL": "1.0.0"
+        },
+        "runtime": {
+          "PruebaDeConsola.dll": {}
+        }
+      },
+      "PruebaDLL/1.0.0": {
+        "runtime": {
+          "PruebaDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaDeConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

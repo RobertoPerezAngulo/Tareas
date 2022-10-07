@@ -1,0 +1,12 @@
+C:\Git\Tareas\PruebaDLL\PruebaDLL\bin\Debug\net6.0\PruebaDLL.deps.json
+C:\Git\Tareas\PruebaDLL\PruebaDLL\bin\Debug\net6.0\PruebaDLL.dll
+C:\Git\Tareas\PruebaDLL\PruebaDLL\bin\Debug\net6.0\PruebaDLL.pdb
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.csproj.AssemblyReference.cache
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.AssemblyInfoInputs.cache
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.AssemblyInfo.cs
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.csproj.CoreCompileInputs.cache
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.dll
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\refint\PruebaDLL.dll
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\PruebaDLL.pdb
+C:\Git\Tareas\PruebaDLL\PruebaDLL\obj\Debug\net6.0\ref\PruebaDLL.dll
